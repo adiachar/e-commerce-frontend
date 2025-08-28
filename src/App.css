@@ -1,0 +1,12 @@
+.App {
+    margin: 0px;
+    padding: 0px;
+    height: 100vh;
+    width: 100vw;
+    box-sizing: border-box;
+    overflow-y: auto;
+}
+
+.App::-webkit-scrollbar {
+    width: 0px !important;
+}
